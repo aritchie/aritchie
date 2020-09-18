@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![MVP Profile](https://img.shields.io/badge/MVP-Developer%20Technologies%20🏆-blue?style=flat&logo=microsoft)](https://mvp.microsoft.com/en-us/PublicProfile/[![MVP Profile](https://img.shields.io/badge/MVP-Developer%20Technologies%20🏆-blue?style=flat&logo=microsoft)](https://mvp.microsoft.com/en-us/PublicProfile/5003669) &nbsp;) &nbsp;
+[![Twitter follow @allanritchie911](https://img.shields.io/twitter/follow/allanritchie911?style=social)](https://twitter.com/allanritchie911)
+[![Blog](https://img.shields.io/badge/Blog-allancritchie.net-brightgreen)](https://allancritchie.net) &nbsp;
+
 <!--
 **aritchie/aritchie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
