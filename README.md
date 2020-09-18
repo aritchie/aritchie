@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a software engineer from Toronto, Canada.  I build a lot of open source for .NET/C#/Azure/Xamarin.  
+
 [![MVP Profile](https://img.shields.io/badge/MVP-Developer%20Technologies%20🏆-blue?style=flat&logo=microsoft)](https://mvp.microsoft.com/en-us/PublicProfile/5002565) 
 &nbsp;
 [![Twitter follow @allanritchie911](https://img.shields.io/twitter/follow/allanritchie911?style=social)](https://twitter.com/allanritchie911)
