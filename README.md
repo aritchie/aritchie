@@ -9,10 +9,25 @@ Got a software project that needs some help?  I'm a .NET/Azure/Xamarin consultan
 * I love American Football 🏈
 
 [![MVP Profile](https://img.shields.io/badge/MVP-Developer%20Technologies%20🏆-blue?style=flat&logo=microsoft)](https://mvp.microsoft.com/en-us/PublicProfile/5002565) 
-[![Blog](https://img.shields.io/badge/Blog-allancritchie.net-brightgreen)](https://allancritchie.net) &nbsp;
+[![Blog](https://img.shields.io/badge/Blog-allanritchie.com-brightgreen)](https://allanritchie.com) &nbsp;
 
 ## Sponsor Me :heart:
-I work hard on open source.  I do it because it is fun and because I enjoy giving back to the community, but the pressures of being a maintainer are tough some days.  People need constant support and I don't always have that time to give.  [GitHub Sponsorship](https://github.com/sponsors/aritchie)
+I work hard on open source and for the community in general.  If you use Shiny in a professional project, please consider sponsoring my work at  [GitHub Sponsorship](https://github.com/sponsors/aritchie).  
+
+Becoming a sponsor gives you premium access to:
+* [Sponsor Connect](sponsorconnect.dev)
+* The Prism & Shiny official discord server where you can engage with other community authors as well as the library maintainers
+* Voting priority on issues and enhancement requests
+* **NEW** premium Shiny libraries such as
+  * OneSignal Push
+  * OBD BLE communications
+  * GeoDispatching
+  * Trip Tracking
+  * Call Directory Management
+  * GPS Tags
+  * Media Sync
+  * Data Sync
+  * and more to come
 
 ## Connecting
 * [![Twitter follow @allanritchie911](https://img.shields.io/twitter/follow/allanritchie911?style=social)](https://twitter.com/allanritchie911)
