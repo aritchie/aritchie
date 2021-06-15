@@ -37,4 +37,4 @@ Becoming a sponsor gives you premium access to:
 * [Shiny](https://github.com/shinyorg/shiny)
 * [Talks](https://github.com/aritchie/talks)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aritchie&show_icons=true&theme=radical)
+![aritchie's GitHub stats](https://github-readme-stats.vercel.app/api?username=aritchie&show_icons=true&theme=radical)
