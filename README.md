@@ -19,7 +19,6 @@ Becoming a sponsor gives you premium access to:
 * The Prism & Shiny official discord server where you can engage with other community authors as well as the library maintainers
 * Voting priority on issues and enhancement requests
 * **NEW** premium Shiny libraries such as
-  * OneSignal Push
   * OBD BLE communications
   * GeoDispatching
   * Trip Tracking
