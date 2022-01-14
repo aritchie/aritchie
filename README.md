@@ -1,7 +1,7 @@
 ## Available For Hire :construction_worker:
 Got a software project that needs some help?  I'm a .NET/Azure/Xamarin consultant with over 20 years of experience with all aspects of the software development lifecycle.  I can plug into existing teams & processes, write a project from scratch, or support your development project for whatever you may need.  Get in touch at [allan.ritchie@gmail.com](mailto:allan.ritchie@gmail.com)
 
-<p align="center"><strong>Please don't email me for free support (paid consulting only). I'm one person, the libraries are free, but my time is not.  There is a discussions section for Shiny here: [https://github.com/shinyorg/shiny/discussions](https://github.com/shinyorg/shiny/discussions)</strong></p>
+<p align="center"><strong>Please don't email me for free support (paid consulting only). I'm one person, the libraries are free, but my time is not.  There is a discussions section for Shiny here: https://github.com/shinyorg/shiny/discussions</strong></p>
 
 ## About Me 👋
 * I'm a software engineering consultant living in Toronto, Canada - I hate cold weather though :)
