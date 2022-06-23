@@ -20,14 +20,11 @@ Becoming a sponsor gives you premium access to:
 * [Sponsor Connect](https://sponsorconnect.dev)
 * The Prism & Shiny official discord server where you can engage with other community authors as well as the library maintainers
 * Voting priority on issues and enhancement requests
-* **NEW** premium Shiny libraries such as
+* Early Access to premium Shiny libraries such as
   * OBD BLE communications
   * GeoDispatching
   * Trip Tracking
-  * Call Directory Management
   * GPS Tags
-  * Media Sync
-  * Data Sync
   * and more to come
 
 ## Connecting
