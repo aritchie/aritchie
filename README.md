@@ -27,9 +27,7 @@ Becoming a sponsor gives you premium access to:
 * [LinkedIn](https://www.linkedin.com/in/allan-ritchie-44b58b3/) 
 
 ## Paid Consulting
-I'm now offering live, 1-on-1, paid consulting through SuperPeer.  You can book a time here:
-
-<link rel="stylesheet" type="text/css" href="https://widgets.superpeer.com/widget.css"><script src="https://widgets.superpeer.com/widget.js"></script><script>window.addEventListener("load", () => {new Superpeer.Widget({embed:{type:"slide-in"},launcher:{type:"button",options:{title:"Book a time with me",backgroundColor:"#0967D2",textColor:"#FFFFFF",size:"large"}},config:{username:"allanritchie",serviceSlug:""}})})</script>
+I'm now offering live, 1-on-1, paid consulting through SuperPeer.  [You can book a time here](https://superpeer.com/allanritchie/-/1-on-1-development-help)
 
 ## Showcase
 * [Shiny](https://github.com/shinyorg/shiny)
