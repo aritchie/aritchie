@@ -15,6 +15,7 @@ I'm now offering live, 1-on-1, paid consulting through SuperPeer.  [You can book
 [![Blog](https://img.shields.io/badge/Blog-allanritchie.com-brightgreen)](https://allanritchie.com) &nbsp;
 
 Listen to [Redth - Jon Dick - MAUI ](https://github.com/) & I every week for .NET content on:
+
 <a href="https://gonemobile.io"><img src="gonemobile.jpg" width="200" /></a>
 
 ## Sponsor Me :heart:
