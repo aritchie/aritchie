@@ -15,7 +15,7 @@ I'm now offering live, 1-on-1, paid consulting through SuperPeer.  [You can book
 [![Blog](https://img.shields.io/badge/Blog-allanritchie.com-brightgreen)](https://allanritchie.com) &nbsp;
 
 Listen to [Redth - Jon Dick - MAUI ](https://github.com/) & I every week for .NET content on:
-[![Gone Mobile](gonemobile.jpg)](https://gonemobile.io)
+<a href="https://gonemobile.io"><img src="gonemobile.jpg" width="200" /></a>
 
 ## Sponsor Me :heart:
 I work hard on open source and for the community in general.  If you use Shiny in a professional project, please consider sponsoring my work at  [GitHub Sponsorship](https://github.com/sponsors/aritchie).  
