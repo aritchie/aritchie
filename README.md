@@ -3,9 +3,24 @@ Got a software project that needs some help?  I'm a .NET/Azure/Xamarin consultan
 
 **Please don't email me for free support.  I'm happy to help with general questions on GitHub issues, but if you need dedicated support or something beyond a standard FAQ - I offer sponsorship options & paid consulting. 
 
-* Shiny Forums - https://github.com/shinyorg/shiny/discussions 
-* Shiny Documentation - https://shinylib.net
-* Shiny Source Code - https://github.com/shinyorg/shiny
+* Shiny 
+    * The biggest sweet of libraries for .NET MAUI than go beyond the `Essentials`
+    * [Forums](https://github.com/shinyorg/shiny/discussions)
+    * [Documentation](https://shinylib.net)
+    * [Source Code](https://github.com/shinyorg/shiny)
+    * Features
+        * BluetoothLE Client & Host
+        * Background Periodic Jobs
+        * Background GPS & Geofencing
+        * Background HTTP Uploads & Downloads 
+        * Local Notifications
+        * Microsoft Extensions Configuration Provider for Android & iOS
+        * Push Notifications - The only one that allows you to swipe between native/firebase/azure
+* Shiny Mediator
+    * [GitHub](https://github.com/shinyorg/mediator)
+    * [Documentation](https://shinylib.net/client/mediator/)
+    * [End to End Sample](https://github.com/shinyorg/mediatorsamples/)
+* [Talks](https://github.com/aritchie/talks)
 
 ## Paid Consulting
 I'm now offering live, 1-on-1, paid consulting through SuperPeer.  [You can book a time here](https://superpeer.com/allanritchie/-/1-on-1-development-help)
@@ -13,7 +28,7 @@ I'm now offering live, 1-on-1, paid consulting through SuperPeer.  [You can book
 ## About Me 👋
 * I'm a software engineering consultant living in Toronto, Canada - I hate cold weather though :)
 * I build a lot of open source for .NET/C#/Azure/Xamarin as shown below
-* I am a long time Microsoft MVP and a former Xamarin MVP from when that was a thing
+* I am a 8x Microsoft MVP and a former Xamarin MVP from when that was a thing
 * I have two black belts (karate & taekwondo)
 * I love American Football 🏈
 
@@ -38,8 +53,6 @@ Becoming a sponsor gives you premium access to:
 * [LinkedIn](https://www.linkedin.com/in/allan-ritchie-44b58b3/) 
 
 
-## Showcase
-* [Shiny](https://github.com/shinyorg/shiny)
-* [Talks](https://github.com/aritchie/talks)
+
 
 ![aritchie's GitHub stats](https://github-readme-stats.vercel.app/api?username=aritchie&show_icons=true&theme=radical)
