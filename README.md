@@ -4,7 +4,7 @@ Got a software project that needs some help?  I'm a .NET/Azure/Xamarin consultan
 **Please don't email me for free support.  I'm happy to help with general questions on GitHub issues, but if you need dedicated support or something beyond a standard FAQ - I offer paid consulting.**
 
 * Shiny 
-    * The biggest sweet of libraries for .NET MAUI than go beyond the `Essentials`
+    * The biggest suite of libraries for .NET MAUI than go beyond the `Essentials`
     * [Forums](https://github.com/shinyorg/shiny/discussions)
     * [Documentation](https://shinylib.net)
     * [Source Code](https://github.com/shinyorg/shiny)
