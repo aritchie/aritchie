@@ -28,7 +28,7 @@ I am no longer offering 1-1 per hour consulting.  If you're looking for multi-ho
 ## About Me 👋
 * I'm a software engineering consultant living in Toronto, Canada - I hate cold weather though :)
 * I build a lot of open source for .NET/C#/Azure/Xamarin as shown below
-* I am a 8x Microsoft MVP and a former Xamarin MVP from when that was a thing
+* I am a Microsoft MVP and a former Xamarin MVP from when that was a thing
 * I have two black belts (karate & taekwondo)
 * I love American Football 🏈
 
