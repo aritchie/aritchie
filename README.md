@@ -43,7 +43,7 @@ I've done everything from classic ASP to modern day .NET - I've written for solu
 
 [![Blog](https://img.shields.io/badge/Blog-allanritchie.com-brightgreen)](https://allanritchie.com)
 
-Watch my livestream with good friend [Redth - Jon Dick - MAUI ](https://github.com/redth) on:
+Watch my livestream with good friend [Redth - Jon Dick - MAUI ](https://github.com/redth) on the [YouTube](https://www.youtube.com/@GoneDotNet)
 
 <a href="https://www.youtube.com/@GoneDotNet"><img src="gonedotnet.jpg" width="200" /></a>
 
