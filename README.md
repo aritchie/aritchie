@@ -34,17 +34,21 @@ I've done everything from classic ASP to modern day .NET - I've written for solu
     * [Localization Generator](https://shinylib.net/extensions/localizegen/) - A source generator to create strongly typed localization resources for Microsoft.Extensions.Localization
     * [Reflector](https://shinylib.net/extensions/reflector/) - A source generator to use reflection WITHOUT reflection
     * [Dependency Injection Extensions](https://shinylib.net/extensions/di/) - Extensions for Microsoft.Extensions.DependencyInjection
-
+* Classic/Archived
+    * [ACR User Dialogs](https://github.com/aritchie/userdialogs) - One of the first plugins I wrote for Xamarin.  This thing still gets used everywhere.
+    
 ## Links
 
 [![MVP Profile](https://img.shields.io/badge/MVP-Developer%20Technologies%20🏆-blue?style=flat&logo=microsoft)](https://mvp.microsoft.com/en-us/PublicProfile/5002565) 
-[![Blog](https://img.shields.io/badge/Blog-allanritchie.com-brightgreen)](https://allanritchie.com) &nbsp;
+
+[![Blog](https://img.shields.io/badge/Blog-allanritchie.com-brightgreen)](https://allanritchie.com)
 
 Watch my livestream with good friend [Redth - Jon Dick - MAUI ](https://github.com/redth) on:
+
 <a href="https://www.youtube.com/@GoneDotNet"><img src="gonedotnet.jpg" width="200" /></a>
 
 ## Sponsor Me :heart:
-I work hard on open source and for the community in general.  If you use Shiny in a professional project, please consider sponsoring my work at  [GitHub Sponsorship](https://github.com/sponsors/aritchie).  
+I work hard on open source and for the community in general.  If you use Shiny in a professional project, please consider sponsoring my work at [GitHub Sponsorship](https://github.com/sponsors/aritchie).  
 
 ## Connecting
 * [![X follow @allanritchie911](https://img.shields.io/twitter/follow/allanritchie911?style=social)](https://twitter.com/allanritchie911)
